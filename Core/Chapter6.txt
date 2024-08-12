@@ -1,0 +1,7 @@
+Error Are Three Type
+1.Syntax Error : Any Mistake in Code That We Writing
+2.Reference Error : Error That make By Not Difeind elements
+These occur when trying to access a variable that hasn't been declared
+
+3.Type Error : These occur when a value is not of the expected type
+
